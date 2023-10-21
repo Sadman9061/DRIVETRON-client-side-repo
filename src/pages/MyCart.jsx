@@ -1,4 +1,4 @@
-// import { useStat
+// import { use
 import { useState } from "react";
 import { Link, useLoaderData } from "react-router-dom";
 import Swal from "sweetalert2";
