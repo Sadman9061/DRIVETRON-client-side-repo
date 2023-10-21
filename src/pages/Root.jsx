@@ -28,7 +28,7 @@ const Root = () => {
     }, [theme]);
 
     return (
-        <div style={{ color: theme === "dark" ? "white" : "black" }}>
+        <div style={{ color: theme === "dark" ? "white" : "black" }} >
             <Navbar handleToggle={handleToggle} theme={theme}></Navbar>
             
             <Outlet></Outlet>

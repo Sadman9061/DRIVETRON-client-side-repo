@@ -49,7 +49,7 @@ const Update = () => {
   
         <div>
 
-            <div className="bg-[#abb5ee]  p-5 md:p-24">
+            <div className="bg-gradient-to-l from-[#b8d3d6] to-[#d2e9e9] p-5 md:p-24">
             <h2 className="text-3xl font-semibold text-slate-800 text-center">Update Coffee: {updateData.Name}</h2>
             <form onSubmit={handleUpdateProduct}>
                 {/* form name and quantity row */}

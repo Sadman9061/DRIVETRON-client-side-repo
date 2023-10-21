@@ -12,7 +12,7 @@ import DriveSmart from "../components/DriveSmart";
 const Home = () => {
  
     return (
-        <div>
+        <div >
 
           <BannerHome></BannerHome>
           

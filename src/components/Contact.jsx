@@ -2,7 +2,7 @@
 
 const Contact = () => {
     return (
-        <div className="flex-row lg:flex  mx-12 my-20 mt-40">
+        <div className="flex-row lg:flex  mx-12 py-20 mt-40">
 
             <div className="   relative flex flex-col w-full mx-auto lg:w-1/2  rounded-xl bg-transparent bg-clip-border  shadow-none
 ">
