@@ -2,7 +2,7 @@
 import { useState } from "react";
 import { Link, useLoaderData } from "react-router-dom";
 import Swal from "sweetalert2";
-// import Swal from "sweeta
+// import Swal f
 
 const MyCart = () => {
     const cartsData = useLoaderData();
